@@ -1,0 +1,3 @@
+[submodule "folderC/repoB"]
+	path = folderC/repoB
+	url = https://github.com/CristianChachaLeon/repoB.git
